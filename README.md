@@ -1,8 +1,8 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Obsidian99&show_icons=true&theme=tokyonight"/>
+  <img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Obsidian99&show_icons=true&theme=tokyonight"/>
 </p>
 
-
+## List
  - 🛰 [Surge](https://obsidian99.github.io/Script/)
  - 🚀[QuantumultX](https://obsidian99.github.io/Script/)
  - ⚓️[Shadowrocket](https://obsidian99.github.io/Script/)
