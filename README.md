@@ -10,10 +10,9 @@
 </p>
 </br>
 
- - 🛰 Surge (https://github.com/Hikote)
- - 🚀 Quantumult X (https://github.com/Hikote)
- - 🛸 Clash (https://github.com/Hikote)
- - ⚓️ Boxjs (https://github.com/Hikote)
- - 🛠 Altstore (https://github.com/Hikote)
+ - 🛰 Surge (https://github.com/Obsidian99)
+ - 🚀 QuantumultX (https://github.com/Obsidian99)
+ - ⚓️ Shadowrocket (https://github.com/Obsidian99)
+ - 🛠 Altstore (https://github.com/Obsidian99)
 
 ✨<img align="right" src="http://profile-counter.glitch.me/obsidian99/count.svg"/>
