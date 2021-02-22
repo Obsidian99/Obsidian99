@@ -14,5 +14,3 @@
     <a href="https://t.me/kicktt"><img src="https://img.shields.io/badge/Telegram-%2352A4DB.svg?&style=social&logo=telegram&logoColor=white" /></a>
 </p>
 
-
- width="490" height="165"
