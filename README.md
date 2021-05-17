@@ -4,10 +4,10 @@
 </p>
 
 ## List
- - 🛰 [Surge](https://obsidian99.github.io/Script/)
- - 🚀[QuantumultX](https://obsidian99.github.io/Script/)
- - ⚓️[Shadowrocket](https://obsidian99.github.io/Script/)
- - 🛠 [Altstore](https://obsidian99.github.io/Script/)
+ - 🛰 [Surge](https://obsidian99.github.io/Profile/)
+ - 🚀[QuantumultX](https://obsidian99.github.io/Profile/)
+ - ⚓️[Shadowrocket](https://obsidian99.github.io/Profile/)
+ - 🛠 [Notion](https://obsidian99.github.io/Profile/)
  
 
 <p align="center">
