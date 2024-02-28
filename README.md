@@ -3,8 +3,6 @@
        width="490" height="165">
 </p>
 
-href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
-    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
   </tr>
   <tr>
         <td  align="center">
