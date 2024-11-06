@@ -20,6 +20,6 @@
 [^_^]: # ![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
 [^_^]: # ![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
 [^_^]: # ![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
-[^_^]: # (哈哈我是注释，不会在浏览器中显示。)
+[^_^]: # This message is used to verify that this feed (feedId:76813054730266624) belongs to me (userId:55544232123215872). Join me in enjoying the next generation information browser https://follow.is.
 
 </div>
